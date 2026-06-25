@@ -26,15 +26,11 @@ Navigate through the steganography and tracking modules using the links below:
 
 ## 🎬 Video Tracking Outputs
 
-Below are the direct visual results of the kinematic tracking algorithm applied to different video sequences. The bounding boxes demonstrate the algorithm's robustness against IR sensor noise and sudden background shifts.
+https://github.com/sarazaee/signal-system-project4/blob/main/tracked_airplane.mp4
 
-<div align="center">
-  <video src="./tracked_airplane.mp4" controls="controls" muted="muted" width="80%"></video>
-  <br><br>
-  <video src="./tracked_airplane_2.mp4" controls="controls" muted="muted" width="80%"></video>
-  <br><br>
-  <video src="./tracked_airplane_3.mp4" controls="controls" muted="muted" width="80%"></video>
-</div>
+https://github.com/sarazaee/signal-system-project4/blob/main/tracked_airplane_2.mp4
+
+https://github.com/sarazaee/signal-system-project4/blob/main/tracked_airplane_3.mp4
 
 ---
 
