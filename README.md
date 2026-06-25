@@ -28,13 +28,11 @@ Navigate through the steganography and tracking modules using the links below:
 
 Below are the dynamic execution results of the object tracking system. The bounding boxes dynamically lock onto the aerial target, navigating through high-frequency background clutter and sensor noise.
 
-<div align="center">
-  <video src="./tracked_airplane.mp4" controls width="80%"></video>
-  <br><br>
-  <video src="./tracked_airplane_2.mp4" controls width="80%"></video>
-  <br><br>
-  <video src="./tracked_airplane_3.mp4" controls width="80%"></video>
-</div>
+[[tracked_airplane](tracked_airplane.mp4)]
+
+[[tracked_airplane_2](tracked_airplane_2.mp4)]
+
+[[tracked_airplane_3](tracked_airplane_3.mp4)]
 
 ---
 
